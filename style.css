@@ -33,7 +33,7 @@ body{
 #sec img
 {
      background-image: url("./2.jpg");
-     float: left;
+     float: right;
      margin: 50px;
      margin-right: 200px;
 
