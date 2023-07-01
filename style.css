@@ -33,9 +33,10 @@ body{
 #sec img
 {
      background-image: url("./2.jpg");
-     float: right;
+     float: left;
      margin: 50px;
      margin-right: 200px;
+     width:40%
 
 }
 #buttons button{
