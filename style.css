@@ -23,7 +23,7 @@ body{
 }
 #header{
      height: 250px;
-     background-image: url("/1.jpg");
+     background-image: url("./1.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      overflow: hidden;
